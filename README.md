@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @berry2012
+- 👋 Hi, I’m Wale!
 - 👀 I’m interested in everything Cloud, DevOps, Architecture and Security...
 - 🌱 Pythonistar ✨
 - 💞️ I’m looking to collaborate on interesting projects
